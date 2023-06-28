@@ -15,7 +15,9 @@ QuizApp is an interactive multiple-choice quiz app designed to challenge your kn
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Shery-1508/My-Flutter-Yard/blob/main/learning_06_QuizApp/assets/screenshots/mianscreen.jpeg)
+<img src="https://github.com/Shery-1508/My-Flutter-Yard/blob/main/learning_06_QuizApp/assets/screenshots/mianscreen.jpeg" alt="Image" width="400" height="200">
+
+![App Screenshot]()
 ![App Screenshot](//assets/screenshots/lose1.jpeg])
 ![App Screenshot](//assets/screenshots/win1.jpeg)
 ![App Screenshot](//assets/screenshots/finalresult.jpeg)
