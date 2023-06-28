@@ -15,10 +15,10 @@ QuizApp is an interactive multiple-choice quiz app designed to challenge your kn
 
 ## Screenshots
 <p>
-<img src="https://github.com/Shery-1508/My-Flutter-Yard/blob/main/learning_06_QuizApp/assets/screenshots/mianscreen.jpeg" alt="Image" width="400" height="600">
-<img src="https://github.com/Shery-1508/My-Flutter-Yard/blob/main/learning_06_QuizApp/assets/screenshots/lose1.jpeg" alt="Image" width="400" height="600">
-<img src="https://github.com/Shery-1508/My-Flutter-Yard/blob/main/learning_06_QuizApp/assets/screenshots/win1.jpeg" alt="Image" width="400" height="600">
-<img src="https://github.com/Shery-1508/My-Flutter-Yard/blob/main/learning_06_QuizApp/assets/screenshots/finalresult.jpeg" alt="Image" width="400" height="600">
+<img src="https://github.com/Shery-1508/My-Flutter-Yard/blob/main/learning_06_QuizApp/assets/screenshots/mianscreen.jpeg" alt="Image" width="200" height="400">
+<img src="https://github.com/Shery-1508/My-Flutter-Yard/blob/main/learning_06_QuizApp/assets/screenshots/lose1.jpeg" alt="Image" width="200" height="400">
+<img src="https://github.com/Shery-1508/My-Flutter-Yard/blob/main/learning_06_QuizApp/assets/screenshots/win1.jpeg" alt="Image" width="200" height="400">
+<img src="https://github.com/Shery-1508/My-Flutter-Yard/blob/main/learning_06_QuizApp/assets/screenshots/finalresult.jpeg" alt="Image" width="200" height="400">
 </p>
 
 ## Installation
