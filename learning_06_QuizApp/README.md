@@ -15,7 +15,7 @@ QuizApp is an interactive multiple-choice quiz app designed to challenge your kn
 
 ## Screenshots
 
-![App Screenshot](/assets/screenshots/mainscreen.jpeg)
+![App Screenshot](assets/screenshots/mainscreen.jpeg)
 ![App Screenshot](//assets/screenshots/lose1.jpeg])
 ![App Screenshot](//assets/screenshots/win1.jpeg)
 ![App Screenshot](//assets/screenshots/finalresult.jpeg)
